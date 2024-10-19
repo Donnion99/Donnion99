@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kunalkhude.vercel.app/](https://kunalkhude.vercel.app/)
 
-- 💬 Ask me about **AI, Next.js, React,**
+- 💬 Ask me about **AI, Next.js, React,React Native**
 
 - 📫 How to reach me **khude.kunal99@gmail.com**
 
